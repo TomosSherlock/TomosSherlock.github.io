@@ -1,6 +1,6 @@
 # Tomos Sherlock
 
-![Tomos Sherlock](`/assets/images/tomos sherlock.jpg`)
+![Tomos Sherlock](/assets/images/tomos-sherlock.jpg)
 ### Bristol, UK
 I am a first-year PhD student in the MaVi Group at the University of Bristol. My research interests are interpretability and machine unlearning.
 
